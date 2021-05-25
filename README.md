@@ -1,2 +1,1 @@
-# smartvibes
-some changes have done
+# smartvibesstaticwebsite
